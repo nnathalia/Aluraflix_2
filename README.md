@@ -1,4 +1,9 @@
 # Aluraflix 2
+![Aluraflix 2](assets/img/image.png)
+
+## 💻 Você pode acessar o projeto aqui
+
+ [Link do site](https://nnathalia.github.io/Aluraflix_2/)
 
 ## Descrição
 Este projeto foi desenvolvido durante a **7ª edição da Imersão Dev da Alura**, na aula intitulada **"Aluraflix e Filmes Preferidos"**. O objetivo é criar uma aplicação simples e interativa que permite ao usuário adicionar filmes favoritos à uma galeria, inserindo apenas o link de uma imagem (como pôster de filme).
@@ -32,4 +37,3 @@ O funcionamento é simples:
 3. O JavaScript captura o valor do campo, cria uma tag `<img>` com esse link e adiciona ao elemento `#listaFilmes`.
 4. O campo de entrada é limpo automaticamente.
 
-![Alt text](image.png)
